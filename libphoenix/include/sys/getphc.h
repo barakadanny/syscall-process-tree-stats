@@ -1,0 +1,1 @@
+extern void getPHC(int *procHeight, int *procCount);
