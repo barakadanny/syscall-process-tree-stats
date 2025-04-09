@@ -10,6 +10,7 @@
  * Author: Pawel Pisarczyk, Aleksander Kaminski, Jan Sikorski
  *
  * This file is part of Phoenix-RTOS.
+ * note that any error is resolved by clonning Phoenix-RTOS main branch
  *
  * %LICENSE%
  */
